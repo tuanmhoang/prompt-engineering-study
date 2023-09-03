@@ -1,4 +1,7 @@
+import sys
+sys.path.append("./00_lib/")
 import studylib
+
 
 prompt = f"""
 Determine if the student's solution is correct or not.

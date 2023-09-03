@@ -1,4 +1,7 @@
+import sys
+sys.path.append("./00_lib/")
 import studylib
+
 
 prompt = f"""
 Your task is to answer in a consistent style.

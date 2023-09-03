@@ -1,4 +1,7 @@
+import sys
+sys.path.append("./00_lib/")
 import studylib
+
 
 prompt = f"""
 Generate a list of three made-up book titles along \ 

@@ -1,4 +1,7 @@
+import sys
+sys.path.append("./00_lib/")
 import studylib
+
 
 text = f"""
 You should express what you want a model to do by \ 

@@ -1,4 +1,7 @@
+import sys
+sys.path.append("./00_lib/")
 import studylib
+
 
 text = f"""
 In a charming village, siblings Jack and Jill set out on \ 
